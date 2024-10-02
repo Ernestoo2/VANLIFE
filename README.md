@@ -1,5 +1,5 @@
 # VANLIFE
-when you need it 
+when you need it
 …or create a new repository on the command line
 echo "# VANLIFE" >> README.md
 git init
